@@ -1,0 +1,294 @@
+# Translation of Plugins - Age Gate - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Age Gate - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-20 10:06:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Age Gate - Stable (latest release)\n"
+
+#. Description of the plugin/theme
+msgid "A customisable age gate to block content from younger people"
+msgstr "Un portail personnalisable âge pour bloquer le contenu de jeunes"
+
+#: public/partials/form/sections/select-month.php:16
+msgid "Dec"
+msgstr "Déc"
+
+#: public/partials/form/sections/select-month.php:15
+msgid "Nov"
+msgstr "Nov"
+
+#: public/partials/form/sections/select-month.php:14
+msgid "Oct"
+msgstr "Oct"
+
+#: public/partials/form/sections/select-month.php:13
+msgid "Sep"
+msgstr "Sept"
+
+#: public/partials/form/sections/select-month.php:12
+msgid "Aug"
+msgstr "Août"
+
+#: public/partials/form/sections/select-month.php:11
+msgid "Jul"
+msgstr "Juil"
+
+#: public/partials/form/sections/select-month.php:10
+msgid "Jun"
+msgstr "Juin"
+
+#: public/partials/form/sections/select-month.php:9
+msgid "May"
+msgstr "Mai"
+
+#: public/partials/form/sections/select-month.php:8
+msgid "Apr"
+msgstr "Avr"
+
+#: public/partials/form/sections/select-month.php:7
+msgid "Mar"
+msgstr "Mar"
+
+#: public/partials/form/sections/select-month.php:6
+msgid "Feb"
+msgstr "Fév"
+
+#: public/partials/form/sections/select-month.php:5
+msgid "Jan"
+msgstr "Jan"
+
+#: public/partials/form/sections/input-month.php:3
+#: public/partials/form/sections/select-month.php:4
+msgid "MM"
+msgstr "MM"
+
+#: public/partials/form/sections/input-month.php:2
+#: public/partials/form/sections/select-month.php:2
+msgid "Month"
+msgstr "Mois"
+
+#: public/partials/form/sections/input-day.php:3
+#: public/partials/form/sections/select-day.php:4
+msgid "DD"
+msgstr "DD"
+
+#: public/partials/form/sections/input-day.php:2
+#: public/partials/form/sections/select-day.php:2
+msgid "Day"
+msgstr "Jour"
+
+#: public/partials/form/inputs.php:16 public/partials/form/selects.php:18
+msgid "YYYY"
+msgstr "AAAA"
+
+#: public/partials/form/inputs.php:15 public/partials/form/selects.php:16
+msgid "Year"
+msgstr "Année"
+
+#: public/partials/form/buttons.php:4
+msgid "No"
+msgstr "Non"
+
+#: public/partials/form/buttons.php:3
+msgid "Yes"
+msgstr "Oui"
+
+#: public/partials/form/buttons.php:1
+msgid "Are you over %s years of age?"
+msgstr "Vous êtes au fil des ans %s ?"
+
+#: public/partials/age-gate-public-display.php:79
+msgid "Remember me"
+msgstr "Erinnere dich an mich"
+
+#: public/partials/age-gate-public-display.php:71
+msgid "An error occured, please try again"
+msgstr "Une erreur est survenue , s’il te plaît essayer de nouveau"
+
+#: public/partials/age-gate-public-display.php:68
+msgid "Nonce failure, please try again"
+msgstr "Défaillance du nonce, Veuillez réessayer"
+
+#: public/partials/age-gate-public-display.php:65
+msgid "You are not old enough to view this content"
+msgstr "Vous n’êtes pas assez vieux pour voir ce contenu"
+
+#: public/partials/age-gate-public-display.php:62
+msgid "Your input was invalid"
+msgstr "Votre entrée était invalide."
+
+#: public/class-age-gate-public.php:338
+msgid "Age Verification"
+msgstr "Vérification de l’âge"
+
+#: admin/class-age-gate-admin.php:704
+msgid "Remove image"
+msgstr "Supprimer l’image"
+
+#: admin/class-age-gate-admin.php:697
+msgid "Add image"
+msgstr "Ajouter une image"
+
+#: admin/class-age-gate-admin.php:677
+msgid "Please change the settings accordingly."
+msgstr "S'il vous plaît modifier les paramètres en conséquence."
+
+#: admin/class-age-gate-admin.php:674
+msgid "Update the look of the age gate."
+msgstr "Mise à jour le look de la barrière de l’âge."
+
+#: admin/class-age-gate-admin.php:657
+msgid "Use this area to add an addtional info or terms of entry."
+msgstr "Utilisez cette zone pour ajouter une info supplémentaire ou des conditions d’entrée."
+
+#: admin/class-age-gate-admin.php:628
+msgid "Select"
+msgstr "Sélectionne"
+
+#: admin/class-age-gate-admin.php:520
+msgid "Additional content"
+msgstr "Contenu additionnel"
+
+#: admin/class-age-gate-admin.php:513 admin/class-age-gate-admin.php:528
+msgid "Use plugin style on the front end"
+msgstr "Utiliser le style de plugin sur le serveur frontal"
+
+#: admin/class-age-gate-admin.php:505
+msgid "Layout"
+msgstr "Disposition"
+
+#: admin/class-age-gate-admin.php:489
+msgid "Text colour"
+msgstr "Couleur texte"
+
+#: admin/class-age-gate-admin.php:473
+msgid "Foreground colour"
+msgstr "Couleur de premier plan"
+
+#: admin/class-age-gate-admin.php:458
+msgid "Background image"
+msgstr "Image d'arrière-plan"
+
+#: admin/class-age-gate-admin.php:442
+msgid "Background colour"
+msgstr "Couleur d’arrière plan"
+
+#: admin/class-age-gate-admin.php:425
+msgid "Sub headline"
+msgstr "Sous titre"
+
+#: admin/class-age-gate-admin.php:419 admin/class-age-gate-admin.php:436
+msgid "Adding %s will output the minimum age"
+msgstr "Ajout de %s va afficher l’âge minimum"
+
+#: admin/class-age-gate-admin.php:408
+msgid "Headline"
+msgstr "Sous-titre"
+
+#: admin/class-age-gate-admin.php:391
+msgid "Submit button text"
+msgstr "Texte du bouton de soumission"
+
+#: admin/class-age-gate-admin.php:377
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/class-age-gate-admin.php:365
+msgid "Logged in users will not need to provide their age"
+msgstr "Connecté utilisateurs ne devront pas donner leur âge"
+
+#: admin/class-age-gate-admin.php:357
+msgid "Ignore logged in"
+msgstr "Ignorer connecté"
+
+#: admin/class-age-gate-admin.php:351
+msgid "MM DD YYYY"
+msgstr "MM JJ AAAA"
+
+#: admin/class-age-gate-admin.php:351
+msgid "DD MM YYYY"
+msgstr "JJ MM AAAA"
+
+#: admin/class-age-gate-admin.php:342
+msgid "Date format"
+msgstr "Format de la Date"
+
+#: admin/class-age-gate-admin.php:335
+msgid "Enable \"remember me\" checkbox"
+msgstr "Activez la case à cocher se souvenir de moi"
+
+#: admin/class-age-gate-admin.php:327
+msgid "Remember"
+msgstr "Se souvenir"
+
+#: admin/class-age-gate-admin.php:321
+msgid "Yes/No"
+msgstr "Oui/Non"
+
+#: admin/class-age-gate-admin.php:321
+msgid "Dropdown boxes"
+msgstr "Listes déroulantes"
+
+#: admin/class-age-gate-admin.php:321
+msgid "Input fields"
+msgstr "Champs d'entrée"
+
+#: admin/class-age-gate-admin.php:312
+msgid "Validate age using"
+msgstr "Valider à l’aide de l’âge"
+
+#: admin/class-age-gate-admin.php:306
+msgid "Your site does not allow registration, so this option is not applicable"
+msgstr "Votre site ne permet pas l’enregistrement, donc cette option n’est pas applicable"
+
+#: admin/class-age-gate-admin.php:304
+msgid "Age check users during registering"
+msgstr "Utilisateurs de cocher âge au cours de l’enregistrement"
+
+#: admin/class-age-gate-admin.php:296
+msgid "Restrict registration"
+msgstr "Limiter l’enregistrement"
+
+#: admin/class-age-gate-admin.php:287
+msgid "Selected Content"
+msgstr "Contenu sélectionné"
+
+#: admin/class-age-gate-admin.php:287
+msgid "All content"
+msgstr "Tout le contenu"
+
+#: admin/class-age-gate-admin.php:278
+msgid "Restrict"
+msgstr "Limiter"
+
+#: admin/class-age-gate-admin.php:272
+msgid "years or older to view content"
+msgstr "ans ou plus pour afficher le contenu"
+
+#: admin/class-age-gate-admin.php:261
+msgid "Users must be"
+msgstr "Les utilisateurs doivent être"
+
+#: admin/class-age-gate-admin.php:241
+msgid "Age gate style settings"
+msgstr "Paramètres de style de portail âge"
+
+#: admin/class-age-gate-admin.php:233
+msgid "Restriction settings"
+msgstr "Paramètres de restriction"
+
+#: admin/class-age-gate-admin.php:146
+msgid "Settings"
+msgstr "Réglages"
+
+#. #-#-#-#-#  tmp-age-gate.pot (Age Gate 1.0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/class-age-gate-admin.php:127 admin/class-age-gate-admin.php:128
+msgid "Age Gate"
+msgstr "Age Gate"
